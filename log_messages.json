@@ -225,7 +225,7 @@
     "${0} increased Venus scale ${1} step(s)": "${0} erhöhte die Venuswertung um ${1}",
     "${0} raised the Venus scale ${1} step(s)": "${0} erhöhte die Venuswertung um ${1}",
 
-    "${0} have upgraded to ${1}": "${0} wurde verbessert zu ${1}",
+    "${0} have upgraded to ${1}": "${0} wurden auf ${1} hochgestuft",
     "${0}'s TR increases 1 step for eliminating dust storms.": "${0}s TW erhöht sich um 1 durch Eliminierung von Sandstürmen.",
     "${0} gains ${1} for placing next to ${2}": "${0} erhält ${1} durch Platzierung angrenzend an ${2}",
     "${0} gains ${1} M€ for a tile placed next to ${2}": "${0} erhält ${1} M€ durch Platzierung eines Plättchens angrenzend an ${2}",
